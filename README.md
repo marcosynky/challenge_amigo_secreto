@@ -1,8 +1,8 @@
-# challenge_amigo_secreto
- Um projeto para o One-Oracle
 # Amigo Secreto
 
 Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usuários podem adicionar nomes à lista de amigos e, em seguida, sortear aleatoriamente um amigo para o sorteio.
+
+![Imagem do Amigo Secreto](assets/amigo-secreto.png)
 
 ## Funcionalidades
 
