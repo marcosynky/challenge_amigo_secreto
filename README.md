@@ -2,7 +2,7 @@
 
 Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usuários podem adicionar nomes à lista de amigos e, em seguida, sortear aleatoriamente um amigo para o sorteio.
 
-![Imagem do Amigo Secreto](assets/amigo-secreto.png)
+
 
 ## Funcionalidades
 
@@ -18,3 +18,6 @@ Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usu�
 
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
+
+
+![Assinatura](assets/ad_white.png)
