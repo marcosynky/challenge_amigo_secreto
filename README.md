@@ -1,32 +1,70 @@
 # Amigo Secreto
 
-Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usuários podem adicionar nomes à lista de amigos e, em seguida, sortear aleatoriamente um amigo para o sorteio.
+![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
+
+## Índice 
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+## Título e Imagem de capa
+
+### Amigo Secreto
+
+Esta aplicação permite que os usuários adicionem os nomes de seus amigos em uma lista, e ao final, faça o sorteio de um amigo secreto de forma aleatória.
+
+![Imagem de capa](assets/amigo-secreto.png)
+
+---
+
+## Badges
 
 ![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
 
+---
 
-## Funcionalidades
+## Descrição do Projeto
 
-- **Adicionar amigos**: O usuário pode adicionar nomes de amigos em um campo de texto.
-- **Validar entradas**: Caso o campo de texto esteja vazio, o sistema alerta o usuário para digitar um nome válido.
-- **Visualizar lista**: Todos os amigos adicionados aparecem em uma lista visível na tela.
-- **Sortear amigo secreto**: Ao clicar no botão de "Sortear", o sistema escolhe um nome aleatoriamente da lista e exibe quem é o amigo secreto.
+O projeto **Amigo Secreto** foi desenvolvido com o intuito de proporcionar aos usuários uma experiência simples e divertida de realizar sorteios de amigo secreto de forma rápida e eficiente. Com esta aplicação, os usuários podem inserir nomes, visualizar a lista e, ao final, sortear um nome de forma totalmente aleatória.
 
-## Como usar
+---
 
-1. **Clonar o repositório**:
-   Para usar este projeto localmente, clone o repositório:
+## Status do Projeto
+
+Este projeto está **em andamento** e continua sendo aprimorado. Funcionalidades adicionais podem ser implementadas nas próximas versões.
+
+---
+
+## Funcionalidades e Demonstração da Aplicação
+
+### Funcionalidades
+
+- **Adicionar Amigos**: O usuário pode adicionar nomes de amigos em um campo de texto.
+- **Visualizar a Lista**: Os nomes dos amigos adicionados são exibidos em uma lista visível na tela.
+- **Sortear Amigo Secreto**: O sistema sorteia aleatoriamente um amigo da lista e exibe o nome do "amigo secreto".
+
+### Demonstração
+
+1. **Adicionar amigos**: Digite o nome do amigo e clique no botão **Adicionar**.
+2. **Sortear amigo secreto**: Após adicionar os amigos, clique no botão **Sortear amigo** para escolher aleatoriamente um nome da lista.
+
+---
+
+## Acesso ao Projeto
+
+Para acessar o projeto localmente, siga os passos abaixo:
+
+1. Clone este repositório:
 
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
-
-MIT License
-
-Copyright (c) [2025] [Marco Antonio]
-
-Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para usar o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e permitir que as pessoas a quem o Software é fornecido o façam, sujeito às seguintes condições:
-
-O aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
-
-O Software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de comercialização, adequação a um determinado fim e não violação. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, torto ou de outra forma, resultante de, ou de qualquer maneira relacionado ao Software ou ao uso ou outras negociações no Software.
-
