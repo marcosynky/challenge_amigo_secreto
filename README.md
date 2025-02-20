@@ -20,4 +20,4 @@ Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usu�
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
 
-![Assinatura](assets/ad_white.png)
+
