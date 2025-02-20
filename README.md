@@ -1,6 +1,7 @@
 # Amigo Secreto
 
 ![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
+![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
 
 
@@ -11,6 +12,8 @@
 Esta aplicação permite que os usuários adicionem os nomes de seus amigos em uma lista, e ao final, faça o sorteio de um amigo secreto de forma aleatória.
 
 ![Imagem de capa](assets/amigo-secreto.png)
+
+---
 
 
 
