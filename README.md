@@ -12,13 +12,7 @@ Esta aplicação permite que os usuários adicionem os nomes de seus amigos em u
 
 ![Imagem de capa](assets/amigo-secreto.png)
 
----
 
-
-
-![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
-
----
 
 ## Descrição do Projeto
 
