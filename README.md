@@ -54,3 +54,10 @@ Para acessar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
+
+
+
+   ### Autor do Projeto: Marco Antônio
+
+   
+
