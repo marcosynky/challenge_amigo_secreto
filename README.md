@@ -53,6 +53,16 @@ Para acessar o projeto localmente, siga os passos abaixo:
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
 
+## Tecnologias utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **HTML5**: Linguagem de marcação para estruturar a página web.
+- **CSS3**: Para estilizar e criar o layout responsivo e atraente da aplicação.
+- **JavaScript**: Responsável por adicionar a funcionalidade interativa, como adicionar amigos à lista e realizar o sorteio aleatório.
+- **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
+
+
 ### Autor do Projeto: Marco Antônio
 
 MIT License
