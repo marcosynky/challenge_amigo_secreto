@@ -22,7 +22,7 @@ Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usu�
 
 MIT License
 
-Copyright (c) [2025] [marco antonio]
+Copyright (c) [2025] [Marco Antonio]
 
 Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para usar o Software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e permitir que as pessoas a quem o Software é fornecido o façam, sujeito às seguintes condições:
 
