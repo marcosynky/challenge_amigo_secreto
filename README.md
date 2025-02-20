@@ -63,7 +63,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
 
 
+
 ### Autor do Projeto: Marco Antônio
+
+
 
 MIT License
 
