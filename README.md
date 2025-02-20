@@ -3,8 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
 ![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
-### Autor do Projeto: Marco Antônio
-
 
 
 ## Título e Imagem de capa
@@ -55,9 +53,18 @@ Para acessar o projeto localmente, siga os passos abaixo:
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
 
+### Autor do Projeto: Marco Antônio
 
+MIT License
 
-   ### Autor do Projeto: Marco Antônio
+Copyright (c) [2025] [Marco Antonio]
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados, para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software é fornecido o façam, sujeito às seguintes condições:
+
+A notificação de copyright e esta permissão devem ser incluídas em todas as cópias ou partes substanciais do Software.
+
+O Software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de comercialização, adequação a um propósito específico e não infração. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou outro, decorrente de ou em conexão com o Software ou o uso ou outros negócios no Software.
+
 
    
 
