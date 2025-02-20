@@ -3,6 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
 ![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
+### Autor do Projeto: Marco Antônio
+
 
 
 ## Título e Imagem de capa
@@ -14,7 +16,6 @@ Esta aplicação permite que os usuários adicionem os nomes de seus amigos em u
 ![Imagem de capa](assets/amigo-secreto.png)
 
 ---
-
 
 
 ## Descrição do Projeto
@@ -52,3 +53,4 @@ Para acessar o projeto localmente, siga os passos abaixo:
 
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
+
