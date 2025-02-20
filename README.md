@@ -2,7 +2,8 @@
 
 Este é um projeto simples de uma aplicação de **Amigo Secreto**, onde os usuários podem adicionar nomes à lista de amigos e, em seguida, sortear aleatoriamente um amigo para o sorteio.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Amigo_Secreto_Em_Desenvolvimento-brightgreen)
+
 
 ## Funcionalidades
 
