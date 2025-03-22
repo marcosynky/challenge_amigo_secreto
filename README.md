@@ -57,10 +57,10 @@ Para acessar o projeto localmente, siga os passos abaixo:
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **HTML5**: Linguagem de marcação para estruturar a página web.
-- **CSS3**: Para estilizar e criar o layout responsivo e atraente da aplicação.
-- **JavaScript**: Responsável por adicionar a funcionalidade interativa, como adicionar amigos à lista e realizar o sorteio aleatório.
-- **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML5**: Linguagem de marcação para estruturar a página web.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS3**: Para estilizar e criar o layout responsivo e atraente da aplicação.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Responsável por adicionar a funcionalidade interativa, como adicionar amigos à lista e realizar o sorteio aleatório.
+- ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
 
 
 
