@@ -24,7 +24,9 @@ O projeto **Amigo Secreto** foi desenvolvido com o intuito de proporcionar aos u
 
 ## Status do Projeto
 
-Este projeto está **em andamento** e continua sendo aprimorado. Funcionalidades adicionais podem ser implementadas nas próximas versões.
+![Progresso](https://img.shields.io/badge/Progresso-100%25-green?style=for-the-badge&labelColor=000000&color=008000&logo=github)
+
+Este projeto está **concluido** mas pode continua sendo aprimorado. Funcionalidades adicionais podem ser implementadas nas próximas versões.
 
 ---
 
