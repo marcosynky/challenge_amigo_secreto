@@ -16,13 +16,13 @@ Esta aplicação permite que os usuários adicionem os nomes de seus amigos em u
 ---
 
 
-## Descrição do Projeto
+<h2>📖 Descrição do projeto</h2>
 
 O projeto **Amigo Secreto** foi desenvolvido com o intuito de proporcionar aos usuários uma experiência simples e divertida de realizar sorteios de amigo secreto de forma rápida e eficiente. Com esta aplicação, os usuários podem inserir nomes, visualizar a lista e, ao final, sortear um nome de forma totalmente aleatória.
 
 ---
 
-## Status do Projeto
+## 📊 Estado do Projeto
 
 ![Progresso](https://img.shields.io/badge/Progresso-100%25-green?style=for-the-badge&labelColor=000000&color=008000&logo=github)
 
@@ -30,9 +30,25 @@ Este projeto está **concluido** mas pode continua sendo aprimorado. Funcionalid
 
 ---
 
+##  Autor
+<h2>Marco Antônio</h2>
+
+<p>Desenvolvedor Full-Stack </p>
+
+<p>
+  <a href="https://github.com/marcosynky" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+<a href="https://www.linkedin.com/in/marco-antônio-developer-fullstack" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+
 ## Funcionalidades e Demonstração da Aplicação
 
-### Funcionalidades
+## 📱 Funcionalidades
 
 - **Adicionar Amigos**: O usuário pode adicionar nomes de amigos em um campo de texto.
 - **Visualizar a Lista**: Os nomes dos amigos adicionados são exibidos em uma lista visível na tela.
@@ -45,6 +61,16 @@ Este projeto está **concluido** mas pode continua sendo aprimorado. Funcionalid
 
 ---
 
+
+## 🚀 Tecnologias
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML5**: Linguagem de marcação para estruturar a página web.
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS3**: Para estilizar e criar o layout responsivo e atraente da aplicação.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Responsável por adicionar a funcionalidade interativa, como adicionar amigos à lista e realizar o sorteio aleatório.
+- ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
+
 ## Acesso ao Projeto
 
 Para acessar o projeto localmente, siga os passos abaixo:
@@ -54,19 +80,6 @@ Para acessar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
-
-## Tecnologias utilizadas
-
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML5**: Linguagem de marcação para estruturar a página web.
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS3**: Para estilizar e criar o layout responsivo e atraente da aplicação.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Responsável por adicionar a funcionalidade interativa, como adicionar amigos à lista e realizar o sorteio aleatório.
-- ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white) **Google Fonts**: Utilizado para as fontes personalizadas **Inter** e **Merriweather**, melhorando a estética e legibilidade do site.
-
-
-
-### Autor do Projeto: Marco Antônio
 
 
 
